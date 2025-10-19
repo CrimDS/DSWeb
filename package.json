@@ -21,6 +21,8 @@
     "typecheck": "tsc"
   },
   "dependencies": {
+    "@grapesjs/studio-sdk": "^1.0.56",
+    "@grapesjs/studio-sdk-plugins": "^1.0.29",
     "dotenv": "^17.2.1",
     "express": "^5.1.0",
     "zod": "^3.25.76"
